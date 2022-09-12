@@ -1,0 +1,11 @@
+{
+    "ID": {
+        "title": "Important Update",
+        "message": "Version 1.6 is available",
+        "versions": [
+            "1.6
+        ],
+        "olderthan": "",
+        "url": ""
+    }
+  }
